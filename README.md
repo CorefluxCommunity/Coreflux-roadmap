@@ -1,6 +1,7 @@
 # Coreflux Roadmap 🛣
 
 Welcome to the Coreflux Roadmap repository! This space is where we share the journey of new features from conception to release. Our roadmap is a collaborative space for the community and the Coreflux team to discuss and shape the future of  Coreflux. 🚀
+
 [See the roadmap »](https://github.com/orgs/CorefluxCommunity/projects/1) 👁
 
 [Read our Guide to Contribute  »](https://github.com/CorefluxCommunity/coreflux-roadmap/blob/main/CONTRIBUTING.MD)📖
