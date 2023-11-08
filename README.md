@@ -24,13 +24,14 @@ graph LR
 ```
 
 ## Contributing to the Roadmap
-[Contribute to our roadmap »](https://github.com/coreflux-roadmap/blob/master/CONTRIBUTING.MD)
+
 We encourage community participation at every stage of the feature development process. Here's how you can contribute:
 
 - **Submit Feature Requests**: Share your ideas by creating a new feature request issue. 
 - **Vote and Discuss**: Participate in discussions and vote on features you want to see developed.
 - **Beta Testing**: Join our beta program to test new features and provide valuable feedback.
 
+[Contribute to our roadmap »](https://github.com/orgs/CorefluxCommunity/coreflux-roadmap/blob/master/CONTRIBUTING.MD)
 ## Guidelines for Feature Requests
 
 Please follow these guidelines when submitting a feature request:
