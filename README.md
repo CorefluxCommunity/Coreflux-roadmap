@@ -31,7 +31,7 @@ We encourage community participation at every stage of the feature development p
 - **Vote and Discuss**: Participate in discussions and vote on features you want to see developed.
 - **Beta Testing**: Join our beta program to test new features and provide valuable feedback.
 
-[Contribute to our roadmap »](https://github.com/orgs/CorefluxCommunity/coreflux-roadmap/blob/master/CONTRIBUTING.MD)
+[Contribute to our roadmap »](https://github.com/CorefluxCommunity/coreflux-roadmap/blob/main/CONTRIBUTING.MD)
 ## Guidelines for Feature Requests
 
 Please follow these guidelines when submitting a feature request:
