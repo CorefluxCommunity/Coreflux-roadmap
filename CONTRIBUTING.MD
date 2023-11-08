@@ -17,9 +17,9 @@ Before creating a new feature request, please check the [existing open](https://
 If you encounter a bug within any Coreflux product, please do not use the roadmap repo to report it. Instead, each Coreflux product has its own repository where issues should be raised, as the information needed to address bugs can vary significantly between products.
 
 To report a bug, please use the appropriate repository:
-* [Coreflux Central](https://github.com/CorefluxCommunity/coreflux-central/issues/new)
-* [Coreflux Hub](https://github.com/CorefluxCommunity/coreflux-hub/issues/new)
-* [Flux Assets](https://github.com/CorefluxCommunity/flux-assets/issues/new)
+* [Coreflux Central](https://github.com/CorefluxCommunity/coreflux-hub/issues/new/choose)
+* [Coreflux Hub](https://github.com/CorefluxCommunity/coreflux-hub/issues/new/choose)
+* [Flux Assets](https://github.com/CorefluxCommunity/flux-assets/issues/new/choose)
 
 ## Security Issues
 
