@@ -15,9 +15,9 @@ Our feature development process includes several stages that a feature goes thro
 ```mermaid
 graph LR
     A[Community Input] -->|Review| B[Consideration]
-    B -->|Define Scope| C[Research]
-    C -->|Start Development| D[Development]
-    D -->|Beta Testing| E[Beta]
+    B -->C[Research]
+    C -->D[Development]
+    D -->E[Beta Program]
     E -->|Final Testing & Fixes| F[Release]
 ```
 
