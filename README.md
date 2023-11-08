@@ -1,6 +1,8 @@
 # Coreflux Roadmap 🛣
 
 Welcome to the Coreflux Roadmap repository! This space is where we share the journey of new features from conception to release. Our roadmap is a collaborative space for the community and the Coreflux team to discuss and shape the future of  Coreflux. 🚀
+[See the roadmap »](https://github.com/coreflux-roadmap/projects/1)
+
 
 ## Feature Development Stages
 
@@ -22,7 +24,7 @@ graph LR
 ```
 
 ## Contributing to the Roadmap
-
+[Contribute to our roadmap »](https://github.com/coreflux-roadmap/blob/master/CONTRIBUTING.MD)
 We encourage community participation at every stage of the feature development process. Here's how you can contribute:
 
 - **Submit Feature Requests**: Share your ideas by creating a new feature request issue. 
